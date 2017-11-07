@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gatsby + Netlify CMS Starter
 
 This repo contains an example blog that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](netlifycms.org): https://gatsby-netlify-cms.netlify.com/.
@@ -34,3 +35,7 @@ npm install --global --production windows-build-tools
 ```
 
 [Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
+=======
+# blog-test
+Blog test, Gatsby + Netlify CMS
+>>>>>>> origin/master
